@@ -214,7 +214,17 @@ Windows Server VM<br>
 
 ## What I have learned:
 
+## What I Have Learned
 
+Throughout developing this home lab, I have gained practical experience in building and managing a virtualised cybersecurity environment using VMware.
+
+I have developed a better understanding of how SIEM, HIDS and NIDS technologies work together to detect suspicious activity. By performing controlled Nmap scans and password-guessing attacks, I observed how Security Onion and Wazuh detect different types of threats and the importance of combining network and endpoint monitoring.
+
+Configuring Sysmon has improved my understanding of Windows event logs, process creation, and how attackers' activities can be investigated through system telemetry.
+
+I have also gained experience troubleshooting network connectivity, configuring security tools and analysing alerts to understand why certain activities are detected while others are not.
+
+Overall, this project has helped me develop practical cybersecurity skills beyond theoretical knowledge and has provided a foundation for my ongoing AI-assisted SOC dissertation.
 
 
 #### References:
